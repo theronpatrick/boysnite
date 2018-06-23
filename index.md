@@ -1,4 +1,4 @@
-![WELCOME TO BOYS$ITE](/assets/hero_with_description.jpg)
+![WELCOME TO BOYS$ITE]({{site.baseurl}}/assets/hero_with_description.jpg)
 
 ## WELCOME TO BOY$NITE
 A podcast about all things extremely decent. Music. Games. Tech. Movies. Life.
