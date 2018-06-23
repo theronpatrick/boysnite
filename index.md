@@ -1,4 +1,4 @@
-![WELCOME TO BOY$NITE]({{ '/assets/oedible.png' | relative_url }})
+![WELCOME TO BOY$NITE]({{ '/assets/heroWithTag.jpg' | relative_url }})
 
 ## WELCOME TO BOY$NITE v4
 A podcast about all things extremely decent. Music. Games. Tech. Movies. Life.
