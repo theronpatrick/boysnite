@@ -67,7 +67,7 @@
       text-align: center;
 
       > svg {
-        fill: $grey-color-dark;
+        fill: $grey-color;
       }
     }
 
@@ -246,5 +246,23 @@
     @include media-query($on-laptop) {
       @include relative-font-size(1.125);
     }
+  }
+}
+
+/* Home Block */
+.home {
+  @keyframes fadein {
+      from {
+        opacity: 0;
+        transform: translateY(-10%) scale(.9);
+      }
+      to {
+        opacity: 1;
+        transform: translateY(0%) scale(1);
+      }
+  }
+
+  img {
+      animation: fadein 2s;
   }
 }
