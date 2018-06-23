@@ -5,5 +5,3 @@ A podcast about all things extremely decent. Music. Games. Tech. Movies. Life.
 
 ## MEET THE BOYS
 - Bitmojis go here
-
-Force rebuild
