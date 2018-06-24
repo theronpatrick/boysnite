@@ -14,6 +14,10 @@ Electronic music producer etc.
 Duncan owner etc.
 {:.bitmoji-block}
 
+![Tyty]({{ '/assets/bitmojis/tyty.png' | relative_url }})
+Inting etc.
+{:.bitmoji-block}
+
 ![Oedible]({{ '/assets/bitmojis/oedible-hate.png' | relative_url }})
 Thirsty boy etc.
 {:.bitmoji-block}
