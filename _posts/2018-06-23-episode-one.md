@@ -6,4 +6,4 @@ In our inaugural episode, Taetro introduces to the Boy$nite podcast, Tyty shares
 
 [Listen Now!]
 
-[Listen Now!]: http://boysnite.us
+[Listen Now!]: https://anchor.fm/boysnite/episodes/Ep--01---Star-Wars-Spinoffs-Shelved--E3-Faves--Online-Dating-e1mvi7
