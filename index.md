@@ -5,6 +5,7 @@
 A podcast about all things extremely decent. Music. Games. Tech. Movies. Life.
 
 ## MEET THE BOYS
+{: #boys-anchor }
 ![Taetro]({{ '/assets/bitmojis/taetro.png' | relative_url }})
 Electronic music producer etc.
 {:.bitmoji-block}
