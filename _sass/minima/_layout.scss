@@ -21,6 +21,9 @@
   float: right;
   line-height: $base-line-height * $base-font-size * 2.25;
 
+  // To allow it to overlap animating image
+  z-index: 1;
+
   .nav-trigger {
       display: none;
   }
