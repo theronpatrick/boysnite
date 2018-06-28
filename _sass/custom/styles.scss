@@ -1,8 +1,9 @@
 .bitmoji-block {
   display: flex;
   align-items: center;
-  
+
   img, .bio {
     flex: 1;
+    width: 50%;
   }
 }
