@@ -1,14 +1,8 @@
-// .hero-block {
-//   img {
-//     height: 50%;
-//     width: 50%;
-//   }
-// }
-//
-//
-// .bitmoji-block {
-//   img {
-//     height: 30%;
-//     width: 30%;
-//   }
-// }
+.bitmoji-block {
+  display: flex;
+  align-items: center;
+  
+  img, .bio {
+    flex: 1;
+  }
+}
