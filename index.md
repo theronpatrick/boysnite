@@ -23,5 +23,5 @@ A podcast about all things extremely decent. Music. Games. Tech. Movies. Life.
 {:.bitmoji-block}
 
 ![Oedible]({{ '/assets/bitmojis/mutie-transparent.png' | relative_url }})
-<span class='bio'>**MUTIE THE CAT**: Security specialist, cosplayer, not actually a boy but gender's just a construct anyway.</span>
+<span class='bio'>**MUTIE THE CAT**: Security specialist, anime girl enthusiast, not actually a boy but gender's just a construct anyway.</span>
 {:.bitmoji-block}
