@@ -21,3 +21,7 @@ A podcast about all things extremely decent. Music. Games. Tech. Movies. Life.
 ![Oedible]({{ '/assets/bitmojis/oedible-hate.png' | relative_url }})
 <span class='bio'>**OEDIBLE**: Software developer, meme aficionado, probably using Tinder right now.</span>
 {:.bitmoji-block}
+
+![Oedible]({{ '/assets/bitmojis/mutie-transparent.png' | relative_url }})
+<span class='bio'>**MUTIE THE CAT**: Security specialist, cosplayer, not actually a boy but gender's just a construct anyway.</span>
+{:.bitmoji-block}

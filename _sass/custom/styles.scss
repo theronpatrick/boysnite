@@ -2,8 +2,20 @@
   display: flex;
   align-items: center;
 
-  img, .bio {
+  img {
+    flex: 1;
+    width: 45%;
+    margin-right: 5%;
+  }
+
+  .bio {
     flex: 1;
     width: 50%;
+  }
+}
+
+.post-links {
+  a {
+    display: block;
   }
 }
