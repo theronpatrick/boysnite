@@ -15,8 +15,11 @@
 }
 
 .post-links {
+  display: flex;
+
   a {
-    display: block;
+    flex: 1;
+    margin-right: 10%;
   }
 }
 

@@ -19,12 +19,23 @@ layout: default-posts
     {{ content }}
   </div>
 
+  <h3>Listen Now!</h3>
   <div class="post-links">
-    <h3>Listen Now!</h3>
-    <a href="https://itunes.apple.com/us/podcast/boy%24nite/id1412711987?mt=2&uo=4" target="_blank">Listen on iTunes</a>
-    <a href="https://open.spotify.com/show/06LEUAHupYfeaIwHwmV0rw" target="_blank">Listen on Spotify</a>
-    <a href="https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy81MTFkNWI0L3BvZGNhc3QvcnNz" target="_blank">Listen on Google Play</a>
-    <a href="https://www.stitcher.com/podcast/anchor-podcasts/boynite" target="_blank">Listen on Stitcher</a>
+    <a href="https://itunes.apple.com/us/podcast/boy%24nite/id1412711987?mt=2&uo=4" target="_blank">
+      <img src="{{ '/assets/img/platforms/itunes.svg' | relative_url }}" alt="itunes link" title="Listen on iTunes!"></img>
+    </a>
+    <a href="https://open.spotify.com/show/06LEUAHupYfeaIwHwmV0rw" target="_blank">
+      <img src="{{ '/assets/img/platforms/spotify.svg' | relative_url }}" alt="spotify link" title="Listen on Spotify!"></img>
+    </a>
+    <a href="https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy81MTFkNWI0L3BvZGNhc3QvcnNz" target="_blank">
+      <img src="{{ '/assets/img/platforms/google-play.svg' | relative_url }}" alt="google play" title="Listen on Google Play!"></img>
+    </a>
+    <a href="https://www.stitcher.com/podcast/anchor-podcasts/boynite" target="_blank">
+      <img src="{{ '/assets/img/platforms/stitcher.png' | relative_url }}" alt="stitcher link" title="Listen on Stitcher!"></img>
+    </a>
+    <a href="https://anchor.fm/s/511d5b4/podcast/rss" target="_blank">
+      <img src="{{ '/assets/img/platforms/rss.svg' | relative_url }}" alt="rss link" title="RSS Link"></img>
+    </a>
   </div>
 
   {%- if site.disqus.shortname -%}
