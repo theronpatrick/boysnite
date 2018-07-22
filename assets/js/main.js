@@ -3,6 +3,12 @@ document.addEventListener("DOMContentLoaded", function(event) {
 });
 
 function init() {
+  if (window.location.pathname === "/") {
+    initHome();
+  }
+}
+
+function initHome() {
   const boysLink = document.querySelector(".page-link.boys")
   const episodesLink = document.querySelector(".page-link.episodes")
 
