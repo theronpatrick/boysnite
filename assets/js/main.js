@@ -3,7 +3,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 });
 
 function init() {
-  console.log("foo")
   const boysLink = document.querySelector(".page-link.boys")
   const episodesLink = document.querySelector(".page-link.episodes")
 
