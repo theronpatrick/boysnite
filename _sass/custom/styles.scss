@@ -23,6 +23,10 @@
   }
 }
 
+.social-media-list {
+  text-align: center;
+}
+
 // Header
 // Gets pretty gross trying to overwrite float crap from template
 .bn-wrapper {
@@ -71,5 +75,8 @@
   }
   .site-nav {
     right: 15px;
+  }
+  .social-media-list {
+    text-align: left;
   }
 }
