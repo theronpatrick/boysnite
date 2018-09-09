@@ -1,0 +1,24 @@
+{
+  "name": "boysnite",
+  "version": "1.0.0",
+  "description": "A podcast about all things extremely decent",
+  "main": "index.js",
+  "devDependencies": {
+    "fs": "0.0.1-security",
+    "moment": "^2.22.2",
+    "rss-parser": "^3.4.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theronpatrick/boysnite.git"
+  },
+  "author": "Theron Patrick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theronpatrick/boysnite/issues"
+  },
+  "homepage": "https://github.com/theronpatrick/boysnite#readme"
+}
