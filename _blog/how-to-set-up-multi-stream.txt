@@ -1,3 +1,6 @@
+install brew https://brew.sh/
+(install OBS, install Text editor)
+
 open terminal
 
 brew update
@@ -7,13 +10,14 @@ brew tap denji/nginx
 
 brew install nginx-full --with-rtmp-module
 
-(install OBS, install Text editor)
-
 // Set up router
 netstat -nr | grep default
 link to example port forwarding
 port 1935
 port 8080 to test
+
+on mac to show hidden
+defaults write com.apple.finder AppleShowAllFiles YES
 
 go to https://www.whatismyip.com/
 
@@ -24,7 +28,25 @@ option + command + esc, force quit finder
 
 open /usr/local/etc/nginx/conf/nginx.conf
 
-(install OBS)
+rtmp {
+  server {
+    listen 1935;
+    chunk_size 4096;
+
+    application live {
+      live on;
+      record off;
+    }
+    application live2 {
+      live on;
+      record off;
+    }
+    application live3 {
+      live on;
+      record off;
+    }
+  }
+}
 
 ifconfig to get IP address
  inet 192.168.1.151
