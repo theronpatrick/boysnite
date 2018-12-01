@@ -33,15 +33,19 @@ rtmp {
     listen 1935;
     chunk_size 4096;
 
-    application live {
+    application pokey {
       live on;
       record off;
     }
-    application live2 {
+    application oedible {
       live on;
       record off;
     }
-    application live3 {
+    application tyty {
+      live on;
+      record off;
+    }
+    application taetro {
       live on;
       record off;
     }
@@ -54,3 +58,6 @@ ifconfig to get IP address
  Desktop
  OBS -> Settings -> Stream -> top custom -> rtmp://192.168.1.151/live2
  test
+
+ Static IP
+ https://www.noip.com
